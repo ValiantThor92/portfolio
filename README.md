@@ -9,6 +9,7 @@ A website to showcase my portfolio/history/skills with prospective clients
 
 ## Website
 https://valiantthor92.github.io/portfolio/
+<img src="./assets/images/readme-screenshot.jpg">
 
 ## Contribution
 Travis Nelson
